@@ -1,4 +1,4 @@
-# Requirements
+# Budget Requirements
 
 - 1 x Pixhawk V2.4.7 Flight board with Original Shell
 - 1 x Teflon safety switch
@@ -27,3 +27,5 @@ All above costs [*~Rs.14999*](https://robu.in/product/pixhawk-px4-2-4-6-flight-c
 - Propellers
 
 Above 3 can be bought in combo [here](https://robu.in/product/a2212-1400kv-brushless-motor-30a-esc-1045-propeller-set/) at *Rs.880 x 7 = ~Rs.6160*
+- 3 x Orange LiPo 6200mAh 11.1V](https://robu.in/product/orange-11-1v-6200mah-3s-40c-lipo-battery-pack-xt60-connector/) *~Rs.5,290 x 3 = Rs.15870*
+- 1 x Gimble 
