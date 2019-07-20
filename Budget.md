@@ -1,8 +1,7 @@
 # Budget Requirements
 
-- 1 x Pixhawk V2.4.7 Flight board with Original Shell
-- 1 x Teflon safety switch
-- 1 x Buzzer
+- 1 x [Pixhawk V2.4.7 Flight Controller](https://robu.in/product/pixhawk-px4-autopilot-pix-2-4-8-32-bit-flight-controller/)
+- 1 x [safety switch and Buzzer](https://robu.in/product/pixhawk-buzzer-switch/)
 - 1 x [SD Card with adapter](https://www.amazon.in/dp/B073K14CVB/ref=psdc_1375393031_t1_B00488G6P8)
 - 2 x [Connecting Wires](https://www.amazon.in/pigtail-connector-quadcotper-controller-Pixhawk/dp/B07P94WM3Y/)
 - 1 x [Pixhawk PPM Encoder Module](https://www.amazon.in/Generic-Pixhawk-MegaPirate-Multiwii-Controller/dp/B06Y45TZ59/)
